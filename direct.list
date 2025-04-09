@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
-
+DOMAIN-KEYWORD,douyu
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -400,7 +400,6 @@ DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dytt8.net
-DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,easou.com
 DOMAIN-SUFFIX,eastday.com
 DOMAIN-SUFFIX,eastmoney.com
