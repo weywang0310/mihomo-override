@@ -335,7 +335,13 @@ DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
-
+#douyu  斗鱼TV
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,douyuscdn.com
+DOMAIN-SUFFIX,douyutv.com
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
