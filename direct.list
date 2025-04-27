@@ -175,6 +175,11 @@ DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
 
 
+# huya  虎牙
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,msstatic.com
+
+
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
