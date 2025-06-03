@@ -9,7 +9,49 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,ipchaxun.com
+
+
+# gofile下载文件地址
+DOMAIN-SUFFIX,file-eu-par-1.gofile.io
 DOMAIN-SUFFIX,file-eu-par-2.gofile.io
+DOMAIN-SUFFIX,file-eu-par-3.gofile.io
+DOMAIN-SUFFIX,file-eu-par-4.gofile.io
+DOMAIN-SUFFIX,file-eu-par-5.gofile.io
+DOMAIN-SUFFIX,file-eu-par-6.gofile.io
+DOMAIN-SUFFIX,file-eu-par-7.gofile.io
+DOMAIN-SUFFIX,file-eu-par-8.gofile.io
+DOMAIN-SUFFIX,file-eu-par-9.gofile.io
+DOMAIN-SUFFIX,file-eu-par-10.gofile.io
+DOMAIN-SUFFIX,file-eu-par-11.gofile.io
+DOMAIN-SUFFIX,file-eu-par-12.gofile.io
+DOMAIN-SUFFIX,file-eu-par-13.gofile.io
+DOMAIN-SUFFIX,file-eu-par-14.gofile.io
+DOMAIN-SUFFIX,file-eu-par-15.gofile.io
+DOMAIN-SUFFIX,file-eu-par-16.gofile.io
+DOMAIN-SUFFIX,file-eu-par-17.gofile.io
+DOMAIN-SUFFIX,file-eu-par-18.gofile.io
+DOMAIN-SUFFIX,file-eu-par-19.gofile.io
+DOMAIN-SUFFIX,file-eu-par-20.gofile.io
+DOMAIN-SUFFIX,file-na-mia-1.gofile.io
+DOMAIN-SUFFIX,file-na-mia-2.gofile.io
+DOMAIN-SUFFIX,file-na-mia-3.gofile.io
+DOMAIN-SUFFIX,file-na-mia-4.gofile.io
+DOMAIN-SUFFIX,file-na-mia-5.gofile.io
+DOMAIN-SUFFIX,file-na-mia-6.gofile.io
+DOMAIN-SUFFIX,file-na-mia-7.gofile.io
+DOMAIN-SUFFIX,file-na-mia-8.gofile.io
+DOMAIN-SUFFIX,file-na-mia-9.gofile.io
+DOMAIN-SUFFIX,file-na-mia-10.gofile.io
+DOMAIN-SUFFIX,file-na-mia-11.gofile.io
+DOMAIN-SUFFIX,file-na-mia-12.gofile.io
+DOMAIN-SUFFIX,file-na-mia-13.gofile.io
+DOMAIN-SUFFIX,file-na-mia-14.gofile.io
+DOMAIN-SUFFIX,file-na-mia-15.gofile.io
+DOMAIN-SUFFIX,file-na-mia-16.gofile.io
+DOMAIN-SUFFIX,file-na-mia-17.gofile.io
+DOMAIN-SUFFIX,file-na-mia-18.gofile.io
+DOMAIN-SUFFIX,file-na-mia-19.gofile.io
+DOMAIN-SUFFIX,file-na-mia-20.gofile.io
 
 
 # 域名关键字匹配
